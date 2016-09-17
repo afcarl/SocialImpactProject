@@ -5,7 +5,7 @@ Professor: Logan Werschky
 
 Team:
 
-Maria Filippelli
-Nikhil Kishore
-Priya Khokher
-Ramda Yanurzha
+* Maria Filippelli
+* Nikhil Kishore
+* Priya Khokher
+* Ramda Yanurzha
